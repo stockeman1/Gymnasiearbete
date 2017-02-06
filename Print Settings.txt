@@ -1,0 +1,19 @@
+Wanhao Duplicator 4s:
+
+Layer Height: 0,2 mm
+Infill Layer Height: 0,2 mm
+Infill Pattern: Honeycomb (Strenght)
+Infill: 30%
+Print Speed: Standard
+
+Right Extruder: 224 celsius
+Left Extruder: none
+Build Plate: 100 Celsius
+
+Roof / Floor Thickness: 1,00 mm
+Shells: 2
+
+Raft: none
+Support: none
+
+Multi Material Printing: no
